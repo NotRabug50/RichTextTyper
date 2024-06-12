@@ -38,6 +38,12 @@ Resets the typing effect to its initial state, ready to start again from the beg
 
 Skips the typing effect, revealing all text immediately. Useful for skipping long sequences or debugging.
 
+## BBCode Tags
+
+### `<wait_x>`
+
+Inserts a pause in the typing effect for `x` seconds. For example, `<wait_3>` will pause the typing for 3 seconds before continuing.
+
 ## Internal Functions
 
 ### `strip_bbcode(source: String): String`
