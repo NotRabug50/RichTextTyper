@@ -38,7 +38,7 @@ Resets the typing effect to its initial state, ready to start again from the beg
 
 Skips the typing effect, revealing all text immediately. Useful for skipping long sequences or debugging.
 
-## BBCode Tags
+## Tags
 
 ### `<wait_x>`
 
